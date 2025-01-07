@@ -1,0 +1,5 @@
+Nombre,Edad,Ciudad
+Juan,25,Medellín
+María,30,Bogotá
+Carlos,22,Cali
+Ana,28,Barranquilla
